@@ -81,6 +81,10 @@ blockquote {
   text-align: center;
 }
 
+.news .table {
+  width: initial;
+}
+
 // Card
 
 .card {
@@ -590,9 +594,17 @@ footer.sticky-bottom {
         max-width: 200px;
       }
 
+
+      .col-sm-8 {
+        -ms-flex: initial;
+        flex: initial;
+        max-width: initial;
+      }
+
       .abbr {
         height: 2rem;
         margin-bottom: 0.5rem;
+        display: none;
 
         abbr {
           display: inline-block;

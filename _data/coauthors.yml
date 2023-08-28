@@ -1,34 +1,19 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Brini":
+  - firstname: ["Andrea", "A.", "A. B.", "Edwin Brini"]
+    url: https://andrea-brini.sites.sheffield.ac.uk/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Garrel":
+  - firstname: ["Michel van", "M. v.", "M. v. G.", "Michel van Garrel"]
+    url: https://vangarrel.com/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Nabijou":
+  - firstname: ["Navid", "N.", "N. N.", Navid Nabijou"]
+    url: https://sites.google.com/view/navidnabijou/home
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Borot":
+  - firstname: ["Gaëtan", "G.", "G. B.", "Gaëtan Borot"]
+    url: https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/mathematische-physik/borot-mp-homepage
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Kramer":
+  - firstname: ["Reinier", "R.", "R. K.", "Reinier Kramer"]
+    url: https://sites.ualberta.ca/~reinier/home

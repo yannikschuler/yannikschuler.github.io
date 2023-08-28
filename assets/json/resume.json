@@ -1,63 +1,86 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yannik Schuler",
+    "label": "Mathematical Physicist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "yschuler1 at sheffield dot ac dot uk",
+    "phone": "",
+    "url": "https://yschuler.gitlab.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+      "name": "University of Cambridge, Department of Pure Mathematics and Mathematical Statistics",
+      "position": "Postdoc in Dhruv Ranganathan's group",
+      "url": "https://www.dpmms.cam.ac.uk/",
+      "startDate": "2024-03",
+      "endDate": "2024-09",
+      "summary": "",
+      "highlights": []
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "University of Sheffield, United Kingdom",
+      "url": "https://agmp.sites.sheffield.ac.uk/home",
+      "area": "",
+      "studyType": "PhD in Mathematics",
+      "startDate": "2021-11",
+      "endDate": "2024-03",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+            "Supervisor: Andrea Brini",
+            "Tentative Thesis Title: 'Topics in Gromov-Witten Theory'",
+            "Current year of PhD: 3rd year"
+      ]
+    },
+    {
+      "institution": "University of Bonn, Germany",
+      "url": "https://www.pi.uni-bonn.de/de",
+      "area": "",
+      "studyType": "MSc in Physics",
+      "startDate": "2017-04",
+      "endDate": "2020-06",
+      "score": "",
+      "courses": [
+            "Thesis: 'Higher quantum Airy structures in two-dimensional topological gravity' under supervision of Albrecht Klemm and Gaetan Borot"
+      ]
+    }, 
+    {
+      "institution": "University of Bonn, Germany",
+      "url": "https://www.math.uni-bonn.de/",
+      "area": "",
+      "studyType": "BSc in Mathematics",
+      "startDate": "2017-04",
+      "endDate": "2019-03",
+      "score": "",
+      "courses": [
+            "Thesis: 'Representation theory of modulated quivers' under supervision of Jan Schröer"
+      ]
+    },
+    {
+      "institution": "University of Bonn, Germany",
+      "url": "https://www.pi.uni-bonn.de/de",
+      "area": "",
+      "studyType": "BSc in Physics",
+      "startDate": "2013-10",
+      "endDate": "2016-09",
+      "score": "",
+      "courses": [
+            "Thesis: 'Gravitational waves' under supervision of Albrecht Klemm"
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [],
@@ -69,6 +92,10 @@
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Basics"
     }
   ],
   "interests": [],
