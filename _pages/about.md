@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: Algebraic Geometer and Mathematical Physicist
 
 profile:
   align: right
@@ -18,6 +18,6 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I am a third year PhD student under the supervision of [Andrea Brini](https://andrea-brini.sites.sheffield.ac.uk/) in the [Algebraic Geometry and Mathematical Physics](https://agmp.sites.sheffield.ac.uk/) research group at the [University of Sheffield](https://www.sheffield.ac.uk/). I will submit my thesis next spring before I will start a short postdoc position from March until September 2024 in the group of [Dhruv Ranganathan](https://www.dhruvrnathan.net/).
 
-As a Mathematical Physicist my research lies at the intersection of Algebraic Geometry and Topological Quantum Field Theory. On the mathematical side it focuses on enumertive invariants and the geometry of their moduli spaces --- mostly Gromov--Witten theory. On the physics side I am trying to study topological M-theory through the refined topological string limit or better their anticipated mathematical counterparts.
+My research focuses questions about enumertive invariants and the geometry of their moduli spaces — mostly in the framework of Gromov–Witten theory. Often these questions are inspired by topological quantum field theories. For instance currently I am working on a mathematical formulation of the refined topoloical string which I expect will allow us to study topological M-theory indirectly.
 
 I did my undergraduate studies in Bonn and wrote my Master thesis in Physics under the supervision of [Albrecht Klemm](https://www.hcm.uni-bonn.de/people/faculty/profile/albrecht-klemm/) and [Gaëtan Borot](https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/mathematische-physik/borot-mp-homepage).
