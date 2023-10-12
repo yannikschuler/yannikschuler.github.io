@@ -271,7 +271,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Schuler]
+  last_name: [Schuler, Schüler]
   first_name: [Yannik, Y.]
 
   style: apa
