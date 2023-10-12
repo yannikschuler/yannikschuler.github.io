@@ -10,6 +10,6 @@ nav_order: 1
 <p>My publications and preprints. You can also find my arXiv entries <a href='http://arxiv.org/a/schuler_y_1'>here</a>.</p>
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+{% bibliography -f {{ site.scholar.bibliography }}  --query @article[keywords^=published] %}
 
 </div>
