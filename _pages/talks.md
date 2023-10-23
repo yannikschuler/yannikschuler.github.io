@@ -9,7 +9,7 @@ nav_order: 4
 
 <h3>upcoming:</h3>
  <ul>
-  <li><b>TBA</b>, Sheffield Geometry and Physics Seminar, University of Sheffield, 30.10.23</li>
+  <li><b>Tangents to the Nodal Cubic</b>, Sheffield Geometry and Physics Seminar, University of Sheffield, 30.10.23</li>
   <li><b>TBA</b>, Algebraic Geometry Seminar, University Utrecht, 22.11.23</li>
   <li><b>Gromov-Witten theory from the fivefold perspective</b>, Mathematical Physics Seminar, HU Berlin, 28.11.23</li> 
   <li><b>TBA</b>, Algebraic Geometry and Moduli Seminar, ETH Zürich, 08.12.23</li>
