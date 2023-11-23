@@ -9,8 +9,6 @@ nav_order: 4
 
 <h3>upcoming:</h3>
  <ul>
-  <li><b>TBA</b>, MAGIC seminar, Imperial College, 20.11.23</li>
-  <li><b>Equivariant Strings and Gromov—Witten theory</b>, Algebraic Geometry Seminar, University Utrecht, 22.11.23</li>
   <li><b>Gromov-Witten theory from the fivefold perspective</b>, Mathematical Physics Seminar, HU Berlin, 28.11.23</li> 
   <li><b>TBA</b>, Algebraic Geometry and Moduli Seminar, ETH Zürich, 08.12.23</li>
 </ul>
@@ -18,6 +16,8 @@ nav_order: 4
 
 <h3>past:</h3>
  <ul>
+  <li><b>Equivariant Strings and Gromov—Witten theory</b>, Algebraic Geometry Seminar, University Utrecht, 22.11.23</li>
+  <li><b>Equivariant Curves and Strings</b>, MAGIC seminar, Imperial College, 20.11.23</li>
   <li><b>Tangents to the Nodal Cubic</b>, Sheffield Geometry and Physics Seminar, University of Sheffield, 30.10.23</li>
   <li><b>From Counting Curves to Strings and back</b>, LMS Summer School 2023, 20.07.23 [<a href='/assets/pdf/LMS_school_presentation.pdf'>Slides</a>]</li>
   <li><b>Gromov-Witten theory from the fivefold perspective</b>, Geometry and Mathematical Physics Seminar Birmingham, 02.05.23</li>
