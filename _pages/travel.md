@@ -12,7 +12,6 @@ nav_order: 6
   <li>HU Berlin, 27–30 November 2023</li>
   <li>ETH Zurich, 05–08 December 2023</li>
   <li>“STEW 2023”, Oslo, 11–15 December 2023</li>
-  <li>“Equivariant methods in geometry”, INI Cambridge, 08–12 January 2023</li>
 </ul>
 
 
