@@ -8,13 +8,14 @@ nav_order: 4
 ---
 
 <h3>upcoming:</h3>
+<p>none.</p>
  <ul>
-  <li><b>Gromov-Witten theory and the refined topological string</b>, Algebraic Geometry and Moduli Seminar, ETH Zürich, 08.12.23</li>
 </ul>
 
 
 <h3>past:</h3>
  <ul>
+  <li><b>Gromov-Witten theory and the refined topological string</b>, Algebraic Geometry and Moduli Seminar, ETH Zürich, 08.12.23</li>
   <li><b>Gromov-Witten theory from the fivefold perspective</b>, Mathematical Physics Seminar, HU Berlin, 28.11.23</li> 
   <li><b>Equivariant Strings and Gromov—Witten theory</b>, Algebraic Geometry Seminar, University Utrecht, 22.11.23</li>
   <li><b>Equivariant Curves and Strings</b>, MAGIC seminar, Imperial College, 20.11.23</li>
