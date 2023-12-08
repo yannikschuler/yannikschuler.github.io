@@ -9,13 +9,13 @@ nav_order: 6
 
 <h3>upcoming:</h3>
  <ul>
-  <li>ETH Zurich, 05–08 December 2023</li>
   <li>“STEW 2023”, Oslo, 11–15 December 2023</li>
 </ul>
 
 
 <h3>past:</h3>
  <ul>
+  <li>ETH Zurich, 05–08 December 2023</li>
   <li>HU Berlin, 27–30 November 2023</li>
   <li>“Enumerative geometry, moduli spaces and quantization”, Cetraro, 04–08 September 2023</li>
   <li>“Derived Categories, Moduli Spaces, and Counting Invariants”, London, 03–07 July 2023</li>
