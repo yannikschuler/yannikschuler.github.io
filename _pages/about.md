@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a third year PhD student under the supervision of [Andrea Brini](https://andrea-brini.sites.sheffield.ac.uk/) in the [Algebraic Geometry and Mathematical Physics](https://agmp.sites.sheffield.ac.uk/) research group at the [University of Sheffield](https://www.sheffield.ac.uk/). I will submit my thesis next spring before I will start a short postdoc position from March until September next year in the group of [Dhruv Ranganathan](https://www.dhruvrnathan.net/). This means I am on the job market for positions starting in September 2024.
+Hi! I am a third year PhD student under the supervision of [Andrea Brini](https://andrea-brini.sites.sheffield.ac.uk/) in the [Algebraic Geometry and Mathematical Physics](https://agmp.sites.sheffield.ac.uk/) research group at the [University of Sheffield](https://www.sheffield.ac.uk/). I will submit my thesis next spring and I will be a research associate in the group of [Dhruv Ranganathan](https://www.dhruvrnathan.net/) from March until August next year. This means I am on the job market for positions starting in September 2024.
 
 My research focuses questions about enumerative invariants and the geometry of their moduli spaces — mostly in the framework of Gromov–Witten theory. Often these questions are inspired by topological quantum field theories. For instance currently I am working on a mathematical formulation of the refined topological string which I expect will allow us to study topological M-theory indirectly.
 
