@@ -18,11 +18,20 @@
   },
   "work": [
     {
+      "name": "ETH Zürich, Department of Mathematics",
+      "position": "Postdoc in Rahul Pandharipande's group",
+      "url": "https://math.ethz.ch/",
+      "startDate": "2024-09",
+      "endDate": "2026-08",
+      "summary": "",
+      "highlights": []
+    },
+    {
       "name": "University of Cambridge, Department of Pure Mathematics and Mathematical Statistics",
-      "position": "Postdoc in Dhruv Ranganathan's group",
+      "position": "Research Associate in Dhruv Ranganathan's group",
       "url": "https://www.dpmms.cam.ac.uk/",
       "startDate": "2024-03",
-      "endDate": "2024-09",
+      "endDate": "2024-08",
       "summary": "",
       "highlights": []
     }
