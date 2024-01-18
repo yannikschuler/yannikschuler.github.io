@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-<p>My publications and preprints. You can also find my arXiv entries <a href='http://arxiv.org/a/schuler_y_1'>here</a>.</p>
+<p>My publications and preprints. You can also find my arXiv entries <a href='https://arxiv.org/a/schuler_y_1.html'>here</a>.</p>
 <div class="publications">
 
 <h3>published:</h3>
