@@ -9,7 +9,7 @@ nav_order: 6
 
 <h3>upcoming:</h3>
  <ul>
-  <li>/</li>
+  <li>“Geometry and Physics of Mirror Symmetry”, University of Sheffield, 02-06 September 2023</li>
 </ul>
 
 
