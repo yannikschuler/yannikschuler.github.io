@@ -8,8 +8,8 @@ nav_order: 4
 ---
 
 <h3>upcoming:</h3>
-<p>none.</p>
  <ul>
+  <li><b>TBA</b>, Geometry and Physics of Mirror Symmetry, University of Sheffield, 02.-06.09.2023</li>
 </ul>
 
 
