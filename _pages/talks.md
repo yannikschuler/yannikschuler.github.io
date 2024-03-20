@@ -9,6 +9,7 @@ nav_order: 4
 
 <h3>upcoming:</h3>
  <ul>
+  <li><b>TBA</b>, Algebra Seminar, University of Edinburgh, 17.04.2024</li>
   <li><b>TBA</b>, Geometry and Physics of Mirror Symmetry, University of Sheffield, 02.-06.09.2023</li>
 </ul>
 
