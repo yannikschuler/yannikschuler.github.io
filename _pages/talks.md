@@ -9,8 +9,6 @@ nav_order: 4
 
 <h3>upcoming:</h3>
  <ul>
-  <li><b>Gromov-Witten theory for the refined topological string</b>, Algebra Seminar, University of Edinburgh, 17.04.2024</li>
-  <li><b>TBA</b>, Junior Geometry Seminar, University of Cambridge, 26.04.2024</li>
   <li><b>Tangents to the nodal cubic</b>, Calf meeting, University of Bath, 16.05.2024</li>
   <li><b>TBA</b>, Geometry and Physics of Mirror Symmetry, University of Sheffield, 02.-06.09.2024</li>
 </ul>
@@ -18,6 +16,8 @@ nav_order: 4
 
 <h3>past:</h3>
  <ul>
+  <li><b>Tangents to the nodal cubic</b>, Junior Geometry Seminar, University of Cambridge, 26.04.2024</li>
+  <li><b>Gromov-Witten theory and the refined topological string</b>, Algebra Seminar, University of Edinburgh, 17.04.2024</li>
   <li><b>Gromov-Witten theory and the refined topological string</b>, Algebraic Geometry and Moduli Seminar, ETH Zürich, 08.12.23</li>
   <li><b>Gromov-Witten theory from the fivefold perspective</b>, Mathematical Physics Seminar, HU Berlin, 28.11.23</li> 
   <li><b>Equivariant Strings and Gromov—Witten theory</b>, Algebraic Geometry Seminar, University Utrecht, 22.11.23</li>
