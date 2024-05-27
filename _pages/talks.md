@@ -9,14 +9,15 @@ nav_order: 4
 
 <h3>upcoming:</h3>
  <ul>
-  <li><b>Tangents to the nodal cubic</b>, Calf meeting, University of Bath, 16.05.2024</li>
-  <li><b>TBA</b>, Fanosearch Seminar, Imperial College, 27.05.2024</li>
   <li><b>TBA</b>, Geometry and Physics of Mirror Symmetry, University of Sheffield, 02.-06.09.2024</li>
+  <li><b>TBA</b>, Duality, Geometry and Physics, Bernoulli center, Lausanne, 24.-27.09.2024</li>
 </ul>
 
 
 <h3>past:</h3>
  <ul>
+  <li><b>Log vs Open Gromov-Witten theory</b>, Fanosearch Seminar, Imperial College, 27.05.2024</li>
+  <li><b>Tangents to the nodal cubic</b>, Calf meeting, University of Bath, 16.05.2024</li>
   <li><b>Gromov-Witten theory and the refined topological string</b>, Real and Logarithmic Enumerative Geometry, Oberwolfach, 09.05.2024</li>
   <li><b>Tangents to the nodal cubic</b>, Junior Geometry Seminar, University of Cambridge, 26.04.2024</li>
   <li><b>Gromov-Witten theory and the refined topological string</b>, Algebra Seminar, University of Edinburgh, 17.04.2024</li>
