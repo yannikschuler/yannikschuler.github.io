@@ -21,3 +21,11 @@ nav_order: 1
 {% bibliography -f {{ site.scholar.bibliography }}  --query @article[keywords^=preprint] %}
 
 </div>
+
+
+<div class="publications">
+  
+<h3>theses:</h3>
+{% bibliography -f {{ site.scholar.bibliography }}  --query @article[keywords^=thesis] %}
+
+</div>
