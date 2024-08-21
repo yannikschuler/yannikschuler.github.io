@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: "email: <a href='mailto:ys667(at)cam(dot)ac(dot)uk'>ys667 (at) cam (dot) ac (dot) uk</a>"
+  address: "email: <a href='mailto:yannik.schuler(at)math(dot)ethz(dot)ch'>yannik.schuler (at) math (dot) ethz (dot) ch</a>"
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
