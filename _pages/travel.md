@@ -9,16 +9,17 @@ nav_order: 6
 
 <h3>upcoming:</h3>
  <ul>
-  <li>“VBAC”, INI Cambridge, 17-21 June 2024</li>
-  <li>“LMS Invited Lectures”, London, 1-5 July 2024</li>
   <li>“Topologically Recursive Behaviours”, Les Diablerets, 26-30 August 2024</li>
   <li>“Geometry and Physics of Mirror Symmetry”, University of Sheffield, 02-06 September 2024</li>
   <li>“Helvetic Seminar”, Obergurgl, 9-13 September 2024</li>
+  <li>“Duality, Geometry and Physics”, EPFL, 24-27 September 2024</li>
 </ul>
 
 
 <h3>past:</h3>
  <ul>
+  <li>“Log Moduli theory: curves, sheaves, and beyond”, Cambridge, 29 July-02 August 2024</li>
+  <li>“VBAC”, INI Cambridge, 17-21 June 2024</li>
   <li>“Real and Logarithmic Enumerative Geometry”, Oberwolfach, 06-10 May 2024</li>
   <li>“STEW 2023”, Oslo, 11–15 December 2023</li>
   <li>ETH Zurich, 05–08 December 2023</li>
