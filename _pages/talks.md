@@ -9,7 +9,7 @@ nav_order: 4
 
 <h3>upcoming:</h3>
  <ul>
-  <li><b>Worldsheet description of the refined topological string</b>, Geometry and Physics of Mirror Symmetry, University of Sheffield, 02.-06.09.2024</li>
+  <li><b>A worldsheet definition of the refined topological string</b>, Geometry and Physics of Mirror Symmetry, University of Sheffield, 02.-06.09.2024</li>
   <li><b>Maps, Sheaves and Membranes</b>, Duality, Geometry and Physics, Bernoulli center, Lausanne, 24.-27.09.2024</li>
 </ul>
 
