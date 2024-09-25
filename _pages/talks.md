@@ -9,18 +9,19 @@ nav_order: 4
 
 <h3>upcoming:</h3>
  <ul>
-  <li><b>A worldsheet definition of the refined topological string</b>, Geometry and Physics of Mirror Symmetry, University of Sheffield, 02.-06.09.2024</li>
-  <li><b>Maps, Sheaves and Membranes</b>, Duality, Geometry and Physics, Bernoulli center, Lausanne, 24.-27.09.2024</li>
+  <li><b>TBA</b>, Algebraic Geometry and Moduli Seminar, ETH Zürich, 25.10.2024</li>
 </ul>
 
 
 <h3>past:</h3>
  <ul>
-  <li><b>Log vs Open Gromov-Witten theory</b>, Fanosearch Seminar, Imperial College, 27.05.2024</li>
+  <li><b>A worldsheet definition of the refined topological string</b>, Geometry and Physics of Mirror Symmetry, University of Sheffield, 02.09.2024</li>
+  <li><b>Maps, Sheaves and Membranes</b>, Duality, Geometry and Physics, Bernoulli center, Lausanne, 24.09.2024 [<a href='/assets/pdf/24-09-24-talk_lausanne.pdf'>Notes</a>]</li>
+  <li><b>Log vs Open Gromov-Witten theory</b>, Fanosearch Seminar, Imperial College, 27.05.2024 [<a href='/assets/pdf/24-05-27-LogVsOpenGW.pdf'>Notes</a>]</li>
   <li><b>Tangents to the nodal cubic</b>, Calf meeting, University of Bath, 16.05.2024</li>
-  <li><b>Gromov-Witten theory and the refined topological string</b>, Real and Logarithmic Enumerative Geometry, Oberwolfach, 09.05.2024</li>
+  <li><b>Gromov-Witten theory and the refined topological string</b>, Real and Logarithmic Enumerative Geometry, Oberwolfach, 09.05.2024 [<a href='/assets/pdf/24-05-09-GWandRefTopStr.pdf'>Notes</a>, <a href='/assets/pdf/24-05-09-report-GWandRefTopStr.pdf'>Report</a>]</li>
   <li><b>Tangents to the nodal cubic</b>, Junior Geometry Seminar, University of Cambridge, 26.04.2024</li>
-  <li><b>Gromov-Witten theory and the refined topological string</b>, Algebra Seminar, University of Edinburgh, 17.04.2024</li>
+  <li><b>Gromov-Witten theory and the refined topological string</b>, Algebra Seminar, University of Edinburgh, 17.04.2024 [<a href='/assets/pdf/24-04-17-GWforRefTopStr.pdf'>Notes</a>]</li>
   <li><b>Gromov-Witten theory and the refined topological string</b>, Algebraic Geometry and Moduli Seminar, ETH Zürich, 08.12.23</li>
   <li><b>Gromov-Witten theory from the fivefold perspective</b>, Mathematical Physics Seminar, HU Berlin, 28.11.23</li> 
   <li><b>Equivariant Strings and Gromov—Witten theory</b>, Algebraic Geometry Seminar, University Utrecht, 22.11.23</li>
