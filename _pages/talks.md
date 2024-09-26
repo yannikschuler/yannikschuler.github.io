@@ -16,11 +16,11 @@ nav_order: 4
 <h3>past:</h3>
  <ul>
   <li><b>Maps, Sheaves and Membranes</b>, Duality, Geometry and Physics, Bernoulli center, Lausanne, 24.09.2024 [<a href='/assets/pdf/24-09-24-talk_lausanne.pdf'>Notes</a>]</li>
-  <li><b>A worldsheet definition of the refined topological string</b>, Geometry and Physics of Mirror Symmetry, University of Sheffield, 02.09.2024</li>
+  <li><b>A worldsheet definition of the refined topological string</b>, Geometry and Physics of Mirror Symmetry, University of Sheffield, 02.09.2024 [<a href='/assets/pdf/24-09-02-Sheffield-Ref_Top_WS.pdf'>Notes</a>, <a href='https://echo360.org.uk/media/b3577a20-592c-4397-88c5-90f4b2bfd16f/public'>Video</a>]</li>
   <li><b>Log vs Open Gromov-Witten theory</b>, Fanosearch Seminar, Imperial College, 27.05.2024 [<a href='/assets/pdf/24-05-27-LogVsOpenGW.pdf'>Notes</a>]</li>
-  <li><b>Tangents to the nodal cubic</b>, Calf meeting, University of Bath, 16.05.2024</li>
+  <li><b>Tangents to the nodal cubic</b>, Calf meeting, University of Bath, 16.05.2024 [<a href='/assets/pdf/24-05-16-Tangents-Nodal-Cubic.pdf'>Notes</a>]</li>
   <li><b>Gromov-Witten theory and the refined topological string</b>, Real and Logarithmic Enumerative Geometry, Oberwolfach, 09.05.2024 [<a href='/assets/pdf/24-05-09-GWandRefTopStr.pdf'>Notes</a>, <a href='/assets/pdf/24-05-09-report-GWandRefTopStr.pdf'>Report</a>]</li>
-  <li><b>Tangents to the nodal cubic</b>, Junior Geometry Seminar, University of Cambridge, 26.04.2024</li>
+  <li><b>Tangents to the nodal cubic</b>, Junior Geometry Seminar, University of Cambridge, 26.04.2024 [<a href='/assets/pdf/24-04-26-Nodal-Cubic-Junior.pdf'>Notes</a>]</li>
   <li><b>Gromov-Witten theory and the refined topological string</b>, Algebra Seminar, University of Edinburgh, 17.04.2024 [<a href='/assets/pdf/24-04-17-GWforRefTopStr.pdf'>Notes</a>]</li>
   <li><b>Gromov-Witten theory and the refined topological string</b>, Algebraic Geometry and Moduli Seminar, ETH Zürich, 08.12.23</li>
   <li><b>Gromov-Witten theory from the fivefold perspective</b>, Mathematical Physics Seminar, HU Berlin, 28.11.23</li> 
