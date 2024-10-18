@@ -9,7 +9,7 @@ nav_order: 4
 
 <h3>upcoming:</h3>
  <ul>
-  <li><b>TBA</b>, Algebraic Geometry and Moduli Seminar, ETH Zürich, 25.10.2024</li>
+  <li><b>Refined mirror symmetry of local P2</b>, Algebraic Geometry and Moduli Seminar, ETH Zürich, 25.10.2024</li>
 </ul>
 
 
