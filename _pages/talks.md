@@ -8,13 +8,14 @@ nav_order: 4
 ---
 
 <h3>upcoming:</h3>
- <ul>
-  <li><b>Refined mirror symmetry of local P2</b>, Algebraic Geometry and Moduli Seminar, ETH Zürich, 25.10.2024</li>
-</ul>
+<p>\</p>
+ <!--<ul>
+ </ul>-->
 
 
 <h3>past:</h3>
  <ul>
+  <li><b>Refined mirror symmetry of local P2</b>, Algebraic Geometry and Moduli Seminar, ETH Zürich, 25.10.2024</li>
   <li><b>Maps, Sheaves and Membranes</b>, Matamzee, 10.10.2024 [<a href='/assets/pdf/24-09-24-talk_lausanne.pdf'>Notes</a>]</li>
   <li><b>Maps, Sheaves and Membranes</b>, Duality, Geometry and Physics, Bernoulli center, Lausanne, 24.09.2024 [<a href='/assets/pdf/24-09-24-talk_lausanne.pdf'>Notes</a>]</li>
   <li><b>A worldsheet definition of the refined topological string</b>, Geometry and Physics of Mirror Symmetry, University of Sheffield, 02.09.2024 [<a href='/assets/pdf/24-09-02-Sheffield-Ref_Top_WS.pdf'>Notes</a>, <a href='https://echo360.org.uk/media/b3577a20-592c-4397-88c5-90f4b2bfd16f/public'>Video</a>]</li>
