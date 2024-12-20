@@ -20,3 +20,7 @@ Hi! I am a postdoc in the research group of [Rahul Pandharipande](https://people
 My research focuses on questions about enumerative invariants and the geometry of their moduli spaces — mostly in the framework of Gromov–Witten theory. Often these questions are inspired by topological quantum field theories. For instance currently I am working on a mathematical formulation of the refined topological string which I expect will allow us to study topological M-theory indirectly.
 
 I did my undergraduate studies in Bonn and wrote my Master thesis in Physics under the supervision of [Albrecht Klemm](https://www.hcm.uni-bonn.de/people/faculty/profile/albrecht-klemm/) and [Gaëtan Borot](https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/mathematische-physik/borot-mp-homepage).
+
+My name is pronounced \[[ˈjanɪk](https://upload.wikimedia.org/wikipedia/commons/6/6c/De-Yannick.ogg) [ˈʃyːlɐ](https://upload.wikimedia.org/wikipedia/commons/8/8c/De-Sch%C3%BCler.ogg)\].
+
+Pronouns: he/him.
