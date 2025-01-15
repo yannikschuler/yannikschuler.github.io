@@ -8,10 +8,10 @@ nav_order: 4
 ---
 
 <h3>upcoming:</h3>
-<p>\</p>
 <ul>
   <li><b>Membranes and Maps</b>, Algebra and Quantum Geometry of BPS quivers, Les Diablerets, 23.01.2025</li>
- </ul> <!--  -->
+ </ul>
+ <!-- <p>\</p> -->
 
 
 <h3>past:</h3>
