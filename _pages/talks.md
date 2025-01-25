@@ -9,9 +9,8 @@ nav_order: 4
 
 <h3>upcoming:</h3>
 <p>\</p>
- <!-- 
 <ul>
- </ul> -->
+</ul>
 
 
 <h3>past:</h3>
