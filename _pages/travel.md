@@ -7,15 +7,15 @@ nav: true
 nav_order: 6
 ---
 
-<!-- -->
+<!--
 <h3>upcoming:</h3>
 <ul>
- <li>“Algebra and Quantum Geometry of BPS Quivers”, Les Diablerets, 19-24 January 2025</li>
 </ul>
-
+ -->
 
 <h3>past:</h3>
  <ul>
+  <li>“Algebra and Quantum Geometry of BPS Quivers”, Les Diablerets, 19-24 January 2025</li>
   <li>“Duality, Geometry and Physics”, EPFL, 24-27 September 2024</li>
   <li>“Helvetic Seminar”, Obergurgl, 9-13 September 2024</li>
   <li>“Geometry and Physics of Mirror Symmetry”, University of Sheffield, 02-06 September 2024</li>
