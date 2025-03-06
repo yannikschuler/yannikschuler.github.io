@@ -8,8 +8,10 @@ nav_order: 4
 ---
 
 <h3>upcoming:</h3>
-<p>\</p>
+<!-- <p>\</p>
+-->
 <ul>
+  <li><b>TBA</b>, Helvetic Algebraic Geometry Seminar, Les Diablerets, 01-06 June 2025</li>
 </ul>
 
 
