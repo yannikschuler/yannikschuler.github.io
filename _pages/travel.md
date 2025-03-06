@@ -7,11 +7,12 @@ nav: true
 nav_order: 6
 ---
 
-<!--
+<!-- comment 
+ -->
 <h3>upcoming:</h3>
 <ul>
+  <li>“Helvetic Algebraic Geometry Seminar”, Les Diablerets, 01-06 June 2025</li>
 </ul>
- -->
 
 <h3>past:</h3>
  <ul>
