@@ -13,7 +13,7 @@ nav_order: 7
   <li>ETH Zürich, fall 2025: Student seminar on [quiver representations](https://metaphor.ethz.ch/x/2025/hs/401-3160-75L/)</li>
 </ul>
 
-<h3>head tutor:</h3>
+<h3>head tutor</h3>
 <ul>
   <li>University of Bonn, spring 2020: General Relativity</li>
 </ul>
