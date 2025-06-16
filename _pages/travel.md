@@ -10,12 +10,13 @@ nav_order: 6
 <!-- comment 
  -->
 <h3>upcoming:</h3>
-<ul>
-  <li>“Helvetic Algebraic Geometry Seminar”, Les Diablerets, 01-06 June 2025</li>
-</ul>
+<p>/</p>
+<!--<ul>
+</ul> -->
 
 <h3>past:</h3>
  <ul>
+  <li>“Helvetic Algebraic Geometry Seminar”, Les Diablerets, 01-06 June 2025</li>
   <li>“Algebra and Quantum Geometry of BPS Quivers”, Les Diablerets, 19-24 January 2025</li>
   <li>“Duality, Geometry and Physics”, EPFL, 24-27 September 2024</li>
   <li>“Helvetic Seminar”, Obergurgl, 9-13 September 2024</li>
