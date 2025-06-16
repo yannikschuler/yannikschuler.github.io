@@ -10,7 +10,7 @@ nav_order: 7
 
 <h3>lecturer</h3>
 <ul>
-  <li>ETH Zürich, fall 2025: Student seminar on [quiver representations](https://metaphor.ethz.ch/x/2025/hs/401-3160-75L/)</li>
+  <li>ETH Zürich, fall 2025: Student seminar on <a href='https://metaphor.ethz.ch/x/2025/hs/401-3160-75L/'>quiver representations</a></li>
 </ul>
 
 <h3>head tutor</h3>
