@@ -8,10 +8,11 @@ nav_order: 4
 ---
 
 <h3>upcoming:</h3>
-<p>/</p>
-<!-- <ul>
+<!-- <p>/</p>-->
+<ul>
+   <li><b>Refined Gromov—Witten invariants</b>, KTRT - Knots and representation theory, online, 21 July 2025</li>
 </ul>
--->
+
 
 
 <h3>past:</h3>
