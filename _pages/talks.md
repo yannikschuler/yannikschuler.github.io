@@ -8,15 +8,15 @@ nav_order: 4
 ---
 
 <h3>upcoming:</h3>
-<!-- <p>/</p>-->
-<ul>
-   <li><b>Refined Gromov—Witten invariants</b>, Moscow-Beijing topology seminar, online, 06 August 2025</li>
-</ul>
+<p>/</p>
+<!-- <ul>
+</ul>-->
 
 
 
 <h3>past:</h3>
  <ul>
+   <li><b>Refined Gromov—Witten invariants</b>, Moscow-Beijing topology seminar, online, 06 August 2025</li>
   <li><b>Curves in 5-folds and conjectures on Hodge integrals</b>, Helvetic Algebraic Geometry Seminar, Les Diablerets, 05 June 2025</li>
   <li><b>Membranes and Maps</b>, Algebra and Quantum Geometry of BPS quivers, Les Diablerets, 23.01.2025 [<a href='/assets/pdf/25-01-23-slides_Les_Diablerets.pdf'>Slides</a>]</li>
   <li><b>Refined mirror symmetry of local P2</b>, Algebraic Geometry and Moduli Seminar, ETH Zürich, 25.10.2024</li>
