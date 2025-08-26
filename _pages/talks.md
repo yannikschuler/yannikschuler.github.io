@@ -10,7 +10,7 @@ nav_order: 4
 <h3>upcoming:</h3>
 <!-- <p>/</p>-->
 <ul>
-   <li><b>TBA</b>, Physical Mathematics Seminars, Geneva, 13 November 2025</li>
+   <li><b>TBA</b>, Physical Mathematics Seminars, Geneva, 13 November 2025 </li>
 </ul>
 
 
