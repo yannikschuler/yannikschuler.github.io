@@ -10,6 +10,8 @@ nav_order: 4
 <h3>upcoming:</h3>
 <!-- <p>/</p>-->
 <ul>
+   <li><b>TBA</b>, Informal Mathematical Physics Seminar, Columbia University, 20 October 2025 </li>
+   <li><b>TBA</b>, Harvard–MIT AG Seminar, MIT, 28 October 2025 </li>
    <li><b>TBA</b>, Physical Mathematics Seminars, Geneva, 13 November 2025 </li>
 </ul>
 
