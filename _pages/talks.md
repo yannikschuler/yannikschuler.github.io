@@ -10,6 +10,7 @@ nav_order: 4
 <h3>upcoming:</h3>
 <!-- <p>/</p>-->
 <ul>
+   <li><b>TBA</b>, Algebraic Geometry and Moduli Seminar, ETH Zürich, 10 October 2025</li>
    <li><b>TBA</b>, Informal Mathematical Physics Seminar, Columbia University, 20 October 2025</li>
    <li><b>TBA</b>, Geometry, Symmetry, and Physics Seminar, Yale University, 23 October 2025</li>
    <li><b>TBA</b>, Harvard–MIT AG Seminar, MIT, 28 October 2025</li>
