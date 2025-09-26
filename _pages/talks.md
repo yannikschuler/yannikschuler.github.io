@@ -15,6 +15,7 @@ nav_order: 4
    <li><b>TBA</b>, Geometry, Symmetry, and Physics Seminar, Yale University, 23 October 2025</li>
    <li><b>TBA</b>, Harvard–MIT AG Seminar, MIT, 28 October 2025</li>
    <li><b>TBA</b>, Physical Mathematics Seminars, Geneva, 13 November 2025</li>
+   <li><b>TBA</b>, Refinements in Enumerative Geometry and Physics, Bengaluru, 22 June–3 July 2026</li>
 </ul>
 
 
