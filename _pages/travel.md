@@ -10,9 +10,12 @@ nav_order: 6
 <!-- comment 
  -->
 <h3>upcoming:</h3>
-<p>/</p>
-<!--<ul>
-</ul> -->
+<!--<p>/</p>-->
+<ul>
+  <li>Columbia University–MIT, 20–31 October 2025</li> 
+  <li>Beijing–Hangzhou–Shanghai, 13–21 May 2026</li>
+  <li>“Refinements in Enumerative Geometry and Physics”, ICTS Bengaluru, 22 June–3 July 2026</li> 
+</ul>
 
 <h3>past:</h3>
  <ul>
