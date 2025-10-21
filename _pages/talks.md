@@ -10,7 +10,6 @@ nav_order: 4
 <h3>upcoming:</h3>
 <!-- <p>/</p>-->
 <ul>
-   <li><b>TBA</b>, Informal Mathematical Physics Seminar, Columbia University, 20 October 2025</li>
    <li><b>TBA</b>, Geometry, Symmetry, and Physics Seminar, Yale University, 23 October 2025</li>
    <li><b>TBA</b>, Harvard–MIT AG Seminar, MIT, 28 October 2025</li>
    <li><b>TBA</b>, Physical Mathematics Seminars, Geneva, 13 November 2025</li>
@@ -21,6 +20,7 @@ nav_order: 4
 
 <h3>past:</h3>
  <ul>
+   <li><b>Membranes and Maps</b>, Informal Mathematical Physics Seminar, Columbia University, 20 October 2025</li>
    <li><b>Quintuple Hodge Integrals</b>, Algebraic Geometry and Moduli Seminar, ETH Zürich, 10 October 2025</li>
    <li><b>Refined Gromov—Witten invariants</b>, Moscow-Beijing topology seminar, online, 06 August 2025</li>
   <li><b>Curves in 5-folds and conjectures on Hodge integrals</b>, Helvetic Algebraic Geometry Seminar, Les Diablerets, 05 June 2025</li>
