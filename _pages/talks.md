@@ -10,7 +10,6 @@ nav_order: 4
 <h3>upcoming:</h3>
 <!-- <p>/</p>-->
 <ul>
-   <li><b>Equivariant topological strings on fivefolds</b>, Physical Mathematics Seminars, Geneva, 13 November 2025</li>
    <li><b>TBA</b>, Refinements in Enumerative Geometry and Physics, Bengaluru, 22 June–3 July 2026</li>
 </ul>
 
@@ -18,6 +17,7 @@ nav_order: 4
 
 <h3>past:</h3>
  <ul>
+   <li><b>Equivariant topological strings on fivefolds</b>, Physical Mathematics Seminars, Geneva, 13 November 2025</li>
    <li><b>Stable maps to fivefolds</b>, Harvard–MIT AG Seminar, MIT, 28 October 2025</li>
    <li><b>Refined Gromov-Witten invariants</b>, Geometry, Symmetry, and Physics Seminar, Yale University, 23 October 2025</li>
    <li><b>Membranes and Maps</b>, Informal Mathematical Physics Seminar, Columbia University, 20 October 2025</li>
