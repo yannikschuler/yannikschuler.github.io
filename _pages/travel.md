@@ -12,7 +12,8 @@ nav_order: 6
 <h3>upcoming:</h3>
 <!--<p>/</p>-->
 <ul>
-  <li>Beijing–Hangzhou–Shanghai, 13–22 May 2026</li>
+  <li>Beijing–Hangzhou–Shanghai, 13–20 May 2026</li>
+  <li>“Hilbert in Mirror”, SIMIS, Shanghai, 21–22 May 2026</li>
   <li>“Refinements in Enumerative Geometry and Physics”, ICTS Bengaluru, 22 June–3 July 2026</li> 
 </ul>
 
