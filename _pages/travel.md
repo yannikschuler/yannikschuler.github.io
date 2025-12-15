@@ -12,13 +12,13 @@ nav_order: 6
 <h3>upcoming:</h3>
 <!--<p>/</p>-->
 <ul>
-  <li>Columbia University–MIT, 20–31 October 2025</li> 
-  <li>Beijing–Hangzhou–Shanghai, 13–21 May 2026</li>
+  <li>Beijing–Hangzhou–Shanghai, 13–22 May 2026</li>
   <li>“Refinements in Enumerative Geometry and Physics”, ICTS Bengaluru, 22 June–3 July 2026</li> 
 </ul>
 
 <h3>past:</h3>
  <ul>
+  <li>Columbia University–MIT, 20–31 October 2025</li> 
   <li>“Helvetic Algebraic Geometry Seminar”, Les Diablerets, 01-06 June 2025</li>
   <li>“Algebra and Quantum Geometry of BPS Quivers”, Les Diablerets, 19-24 January 2025</li>
   <li>“Duality, Geometry and Physics”, EPFL, 24-27 September 2024</li>
