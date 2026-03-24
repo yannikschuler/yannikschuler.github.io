@@ -11,6 +11,7 @@ nav_order: 4
 <!-- <p>/</p>-->
 <ul>
    <li><b>TBA</b>, Hilbert in Mirror, SIMIS, Shanghai, 21–22 May 2026</li>
+   <li><b>TBA</b>, Heidelberg Algebraic Geometry Seminar, 29 May 2026</li>
    <li><b>TBA</b>, Refinements in Enumerative Geometry and Physics, Bengaluru, 22 June–3 July 2026</li>
 </ul>
 
