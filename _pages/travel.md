@@ -17,6 +17,7 @@ nav_order: 6
   <li>“Hilbert in Mirror”, SIMIS, Shanghai, 21–22 May 2026</li>
   <li>Heidelberg, 29 April 2026</li>
   <li>“Refinements in Enumerative Geometry and Physics”, ICTS Bengaluru, 22 June–3 July 2026</li> 
+  <li>“Helvetic Algebraic Geometry Seminar”, Les Diablerets, 30 May–04 June 2026</li> 
 </ul>
 
 <h3>past:</h3>
