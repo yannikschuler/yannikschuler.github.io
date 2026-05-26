@@ -12,9 +12,6 @@ nav_order: 6
 <h3>upcoming:</h3>
 <!--<p>/</p>-->
 <ul>
-  <li>Padova, 15–17 April 2026</li>
-  <li>Beijing–Hangzhou–Shanghai, 13–22 May 2026</li>
-  <li>“Hilbert in Mirror”, SIMIS, Shanghai, 21–22 May 2026</li>
   <li>Heidelberg, 29 April 2026</li>
   <li>“Refinements in Enumerative Geometry and Physics”, ICTS Bengaluru, 22 June–3 July 2026</li> 
   <li>“Helvetic Algebraic Geometry Seminar”, Les Diablerets, 30 May–04 June 2026</li> 
@@ -22,6 +19,8 @@ nav_order: 6
 
 <h3>past:</h3>
  <ul>
+  <li>Beijing–Hangzhou–Shanghai, 13–22 May 2026</li>
+  <li>Padova, 15–17 April 2026</li>
   <li>Columbia University–MIT, 20–31 October 2025</li> 
   <li>“Helvetic Algebraic Geometry Seminar”, Les Diablerets, 01-06 June 2025</li>
   <li>“Algebra and Quantum Geometry of BPS Quivers”, Les Diablerets, 19-24 January 2025</li>
