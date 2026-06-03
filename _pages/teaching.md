@@ -14,12 +14,13 @@ nav_order: 7
   <li>ETH Zürich, fall 2025: Student seminar on <a href='https://metaphor.ethz.ch/x/2025/hs/401-3160-75L/'>quiver representations</a></li>
 </ul>
 
-<h3>bachelor students</h3>
+<h3>student supervision</h3>
+<b>bachelor students</b>
 <ul>
   <li>A. Kalman, 2025, <i>Burnside’s Character Formula for Hurwitz Numbers</i></li>
 </ul>
 
-<h3>master students</h3>
+<b>master students</b>
 <ul>
   <li>A. Dänzer, 2025, <i>Gromov-Witten theory of a higher-dimensional generalization of the resolved conifold</i></li>
 </ul>
