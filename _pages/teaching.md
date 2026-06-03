@@ -10,7 +10,18 @@ nav_order: 7
 
 <h3>lecturer</h3>
 <ul>
+  <li>ETH Zürich, fall 2026: Student seminar on Foundations of Gromov-Witten theory</li>
   <li>ETH Zürich, fall 2025: Student seminar on <a href='https://metaphor.ethz.ch/x/2025/hs/401-3160-75L/'>quiver representations</a></li>
+</ul>
+
+<h3>bachelor students</h3>
+<ul>
+  <li>A. Kalman, 2025, <i>Burnside’s Character Formula for Hurwitz Numbers</i></li>
+</ul>
+
+<h3>master students</h3>
+<ul>
+  <li>A. Dänzer, 2025, <i>Gromov-Witten theory of a higher-dimensional generalization of the resolved conifold</i></li>
 </ul>
 
 <h3>head tutor</h3>
