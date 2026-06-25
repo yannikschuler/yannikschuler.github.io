@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Yannik Schuler",
-    "label": "Mathematical Physicist",
+    "label": "Algebraic Geometer and Mathematical Physicist",
     "image": "",
-    "email": "yschuler1 at sheffield dot ac dot uk",
+    "email": "yannik.schuler at math dot ethz dot ch",
     "phone": "",
     "url": "https://yschuler.gitlab.io/",
     "summary": "",
@@ -89,7 +89,8 @@
   ],
   "awards": [{
     "title": "Walter Benjamin Fellowship 2026.01-2027.12",
-    "awarder": "DFG"
+    "url": "https://gepris.dfg.de/gepris/projekt/576663726",
+    "awarder": "Deutsche Forschungsgemeinschaft"
   }],
   "certificates": [],
   "publications": [],
