@@ -8,9 +8,9 @@
     "url": "https://yschuler.gitlab.io/",
     "summary": "",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
+      "address": "HG J 14.6, ETH Zurich, Rämistrasse 101",
+      "postalCode": "8092",
+      "city": "Zürich",
       "countryCode": "",
       "region": ""
     },
@@ -22,8 +22,8 @@
       "position": "Postdoc in Rahul Pandharipande's group",
       "url": "https://math.ethz.ch/",
       "startDate": "2024-09",
-      "endDate": "2026-08",
-      "summary": "",
+      "endDate": "2027-12",
+      "summary": "2026.01-2027.12 I am supported by a Walter Benjamin Fellowship of the DFG.",
       "highlights": []
     },
     {
@@ -47,9 +47,7 @@
       "endDate": "2024-03",
       "score": "",
       "courses": [
-            "Supervisor: Andrea Brini",
-            "Tentative Thesis Title: 'Topics in Gromov-Witten Theory'",
-            "Current year of PhD: 3rd year"
+            "Thesis: 'Topics in Gromov-Witten Theory' under supervision of Andrea Brini"
       ]
     },
     {
@@ -89,24 +87,14 @@
       ]
     }
   ],
-  "awards": [],
+  "awards": [{
+    "title": "Walter Benjamin Fellowship 2026.01-2027.12",
+    "awarder": "DFG"
+  }],
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    },
-    {
-      "language": "French",
-      "fluency": "Basics"
-    }
-  ],
+  "languages": [],
   "interests": [],
   "references": [],
   "projects": []
