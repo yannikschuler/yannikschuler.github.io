@@ -10,14 +10,14 @@ nav_order: 4
 <h3>upcoming:</h3>
 <!-- <p>/</p>-->
 <ul>
-   <li><b>Membranes and Maps</b>, Heidelberg Algebraic Geometry Seminar, 29 May 2026</li>
-   <li><b>TBA</b>, Refinements in Enumerative Geometry and Physics, Bengaluru, 22 June–3 July 2026</li>
+   <li><b>Membranes and Maps</b>, Refinements in Enumerative Geometry and Physics, Bengaluru, 22 June–3 July 2026</li>
 </ul>
 
 
 
 <h3>past:</h3>
  <ul>
+   <li><b>Membranes and Maps</b>, Heidelberg Algebraic Geometry Seminar, 29 May 2026</li>
    <li><b>Fivefold perspective on the GW/DT correspondence</b>, Hilbert in Mirror, SIMIS, Shanghai, 21–22 May 2026</li>
    <li><b>Equivariant topological strings on fivefolds</b>, Physical Mathematics Seminars, Geneva, 13 November 2025</li>
    <li><b>Stable maps to fivefolds</b>, Harvard–MIT AG Seminar, MIT, 28 October 2025</li>
