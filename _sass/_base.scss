@@ -574,8 +574,8 @@ footer.sticky-bottom {
   h2.bibliography {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
-    padding-top: 1rem;
-    margin-top: 2rem;
+    padding-top: 0.5rem;
+    margin-top: 1rem;
     margin-bottom: -2rem;
     text-align: right;
   }
@@ -662,10 +662,10 @@ footer.sticky-bottom {
         a.btn {
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
-          padding-top: 0.25rem;
-          padding-bottom: 0.25rem;
+          padding-left: 0.6rem;
+          padding-right: 0.6rem;
+          padding-top: 0.15rem;
+          padding-bottom: 0.15rem;
           margin-left: 0;
 
           &:hover {
@@ -720,6 +720,7 @@ footer.sticky-bottom {
         -ms-transition: 0.15s ease;
         -o-transition: 0.15s ease;
         transition: all 0.15s ease;
+        margin-bottom: 1rem;
       }
 
       div.abstract.hidden {
