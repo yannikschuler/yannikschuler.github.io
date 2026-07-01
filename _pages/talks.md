@@ -8,15 +8,15 @@ nav_order: 4
 ---
 
 <h3>upcoming:</h3>
-<!-- <p>/</p>-->
-<ul>
-</ul>
+<p>/</p>
+<!-- <ul>
+</ul> -->
 
 
 
 <h3>past:</h3>
  <ul>
-   <li><b>Membranes and Maps</b>, Refinements in Enumerative Geometry and Physics, Bengaluru, 22 June–3 July 2026 [<a href='/assets/pdf/26-07-01-ICTS_notes.pdf'>Notes</a>, <a href='/assets/code/26-07-01-ICTS-talk_code.zip'>Code</a>]</li>
+   <li><b>Membranes and Maps</b>, Refinements in Enumerative Geometry and Physics, Bengaluru, 22 June–3 July 2026 [<a href='/assets/pdf/26-07-01-ICTS.pdf'>Notes</a>, <a href='/assets/code/26-07-01-ICTS-talk_code.zip'>Code</a>]</li>
    <li><b>Membranes and Maps</b>, Heidelberg Algebraic Geometry Seminar, 29 May 2026</li>
    <li><b>Fivefold perspective on the GW/DT correspondence</b>, Hilbert in Mirror, SIMIS, Shanghai, 21–22 May 2026</li>
    <li><b>Equivariant topological strings on fivefolds</b>, Physical Mathematics Seminars, Geneva, 13 November 2025</li>
