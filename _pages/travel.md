@@ -12,13 +12,14 @@ nav_order: 6
 <h3>upcoming:</h3>
 <!--<p>/</p>-->
 <ul>
-  <li>Heidelberg, 29 April 2026</li>
-  <li>“Refinements in Enumerative Geometry and Physics”, ICTS Bengaluru, 22 June–3 July 2026</li> 
-  <li>“Helvetic Algebraic Geometry Seminar”, Les Diablerets, 30 May–04 June 2026</li> 
+   <li>“Enumerative Geometry in Scattering diagrams”, Les Diablerets, 09–14 May 2027</li>
+  <li>“Helvetic Algebraic Geometry Seminar”, Les Diablerets, 30 May–04 June 2027</li> 
 </ul>
 
 <h3>past:</h3>
  <ul>
+  <li>“Refinements in Enumerative Geometry and Physics”, ICTS Bengaluru, 22 June–3 July 2026</li> 
+  <li>Heidelberg, 29 April 2026</li>
   <li>Beijing–Hangzhou–Shanghai, 13–22 May 2026</li>
   <li>Padova, 15–17 April 2026</li>
   <li>Columbia University–MIT, 20–31 October 2025</li> 
