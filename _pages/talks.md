@@ -8,9 +8,10 @@ nav_order: 4
 ---
 
 <h3>upcoming:</h3>
-<p>/</p>
-<!-- <ul>
-</ul> -->
+<!-- <p>/</p> -->
+<ul>
+   <li><b>TBA</b>, Enumerative Geometry in Scattering diagrams, Les Diablerets, 09–14 June 2025</li>
+</ul>
 
 
 
