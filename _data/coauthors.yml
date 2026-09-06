@@ -1,5 +1,17 @@
+"Holmes":
+  - firstname: ["Daniel", "D.", "D. H."]
+    url: https://www.daniel-holmes.at/
+
+"Pandharipande":
+  - firstname: ["Rahul", "R.", "R. P."]
+    url: https://people.math.ethz.ch/~rahul/
+
+"Giacchetto":
+  - firstname: ["Alessandro", "A.", "A. G."]
+    url: https://sites.google.com/view/alessandrogiacchetto/home
+    
 "Brini":
-  - firstname: ["Andrea", "A.", "A. B.", "Edwin Brini"]
+  - firstname: ["Andrea", "A.", "A. B."]
     url: https://andrea-brini.sites.sheffield.ac.uk/
 
 "Garrel":
@@ -7,7 +19,7 @@
     url: https://vangarrel.com/
 
 "Nabijou":
-  - firstname: ["Navid", "N.", "N. N.", Navid Nabijou"]
+  - firstname: ["Navid", "N.", "N. N.", "Navid Nabijou"]
     url: https://sites.google.com/view/navidnabijou/home
 
 "Borot":
