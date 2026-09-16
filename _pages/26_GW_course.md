@@ -145,7 +145,7 @@ You can find more detailed information and references for each talk in this <a h
   </table>
 
 </div>
-
+<p> </p>
 
 <h2 id="guideline">Giving a seminar talk</h2>
 <p>
