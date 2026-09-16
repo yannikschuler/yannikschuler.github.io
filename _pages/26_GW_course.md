@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /FS26GWcourse/
-title: Master seminar - Foundations of Gromov-Witten theory
-description: Website for the master seminar "Foundations of Gromov-Witten theory" taught in fall semester 2026.
+title: Foundations of Gromov-Witten theory
+description: Website for the master seminar <i>Foundations of Gromov-Witten theory</i> in fall semester 2026.
 nav: false
 nav_order: 100
 ---
@@ -21,15 +21,19 @@ nav_order: 100
 
 <h2 id="content">Content</h2>
 <p>
-<a href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2026W&ansicht=KATALOGDATEN&lerneinheitId=207159">Official course description.</a><br>
+<a href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2026W&ansicht=KATALOGDATEN&lerneinheitId=207159">Official course description.</a>
+</p>
 
+<p>
 This seminar introduces Gromov-Witten theory, starting from basics in intersection theory and discussing the geometry of moduli spaces of stable curves and maps. The goal is to define Gromov-Witten invariants, develop methods for their computation. For instance, we will show that there are 2’875 lines on a general quintic threefold. The learning objectives are:
+</p>
 <ol>
   <li>for students to gain understanding about the foundations and methods in Gromov-Witten theory,</li>
   <li>to develop their skills in reading research-level mathematical texts,</li>
   <li>to enhance their presentation and communication skills.</li>
 </ol>
-For each session, reading material will be assigned along with a session leader. The session leader will present the assigned material and answer questions from the audience, with the goal of making each session a collaborative and active mathematical conversation rather than a passive lecture. Assessment will be based on participation in the seminar, with particular emphasis on the session led by each student.<br>
+<p>
+For each session, reading material will be assigned along with a session leader. The session leader will present the assigned material and answer questions from the audience, with the goal of making each session a collaborative and active mathematical conversation rather than a passive lecture. Assessment will be based on participation in the seminar, with particular emphasis on the session led by each student.
 </p>
 
 <h2 id="organisation">Course organisation</h2>
@@ -53,7 +57,7 @@ You can find the slides from our first meeting <a href="/assets/pdf/FS26_GW_cour
         <td>0</td>
         <td>17.09.</td>
         <td>Introduction and assignment of talks</td>
-        <td></td>
+        <td>Yannik Schuler</td>
       </tr>
       <tr>
         <td>1</td>
@@ -146,6 +150,7 @@ You can find more detailed information and references for each talk in this <a h
 <h2 id="guideline">Giving a seminar talk</h2>
 <p>
 A good seminar talk is structured, engaging, and clear. When preparing your presentation, start by identifying the key ideas: What are the main concepts? Why are they important? How do they fit into the broader context of quiver representations? Before diving into technical proofs, take some time to provide intuition and motivation. Here are a few practical tips:
+</p>
 <ul>
   <li><b>Organisation:</b> Plan your talk with a clear structure — begin with an overview, introduce necessary definitions, state the main results, and then explain proofs or computations step by step.</li>
   <li><b>Examples:</b> Illustrate abstract ideas with concrete examples. Quiver representations generalise concepts you have already encountered in linear algebra, so well-chosen examples can greatly aid understanding.</li>
@@ -153,14 +158,15 @@ A good seminar talk is structured, engaging, and clear. When preparing your pres
   <li><b>Time management:</b> Practice beforehand to ensure your talk fits within the allotted time. If a proof is too long, highlight only the key steps and refer to the book for details.</li>
   <li><b>Engagement:</b> Encourage questions and interaction. If a concept is tricky, take a moment to check if everyone is following before moving on.</li>
 </ul>
+<p>
 For additional tips on giving a seminar talk, see <a href="https://johannesschmitt.gitlab.io/mat016/Advice_for_seminar_talks.pdf">the advice provided by Johannes Schmitt</a>. [This guideline was taken with slight modifications from <a href="https://drive.google.com/file/d/1PV9ibDqt7L7djWCVKnfl89k74XoGlOSy/view">these notes, section 1.1</a>]
 </p>
 
 <h2 id="requirements">Requirement for passing</h2>
 <p>
 In order to pass the seminar, you have to:
+</p>
 <ul>
   <li><b>give a talk</b> from the above list to the other participants
   <li><b>attend</b> (most of) the talks of the other participants
 </ul>
-</p>
