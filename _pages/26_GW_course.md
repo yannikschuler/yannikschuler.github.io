@@ -41,6 +41,10 @@ For each session, reading material will be assigned along with a session leader.
 You can find the slides from our first meeting <a href="/assets/pdf/FS26_GW_course_intro_slides.pdf">here</a>. After the first meeting, please fill in this <a href="https://forms.gle/3qoqnFV6qEUCR5BN7">form</a> indicating up to four preferred topics in order of preference until Fri 18 Sept 20:00. The assignment of talks will be announced by email and on this website Tue 22 Sept.
 </p>
 
+<p>
+You can find more detailed information and references for each talk in this <a href="/assets/pdf/FS26_GW_course_talks.pdf">note</a>.
+</p>
+
 <div class="table-responsive">
 
   <table class="table table-bordered">
@@ -141,10 +145,6 @@ You can find the slides from our first meeting <a href="/assets/pdf/FS26_GW_cour
   </table>
 
 </div>
-
-<p>
-You can find more detailed information and references for each talk in this <a href="/assets/pdf/FS26_GW_course_talks.pdf">note</a>.
-</p>
 
 
 <h2 id="guideline">Giving a seminar talk</h2>
