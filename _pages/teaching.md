@@ -17,6 +17,7 @@ nav_order: 7
 <h3>student supervision</h3>
 <b>bachelor students</b>
 <ul>
+  <li>J. Corti, 2026, <i>The McKay Correspondence</i></li>
   <li>A. Kalman, 2025, <i>Burnside’s Character Formula for Hurwitz Numbers</i></li>
 </ul>
 
