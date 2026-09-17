@@ -100,13 +100,13 @@ You can find the slides from our first meeting <a href="/assets/pdf/FS26_GW_cour
       <tr>
         <td>8</td>
         <td>12.11.</td>
-        <td>Relative stable maps and the ELSV formula</td>
+        <td>The ELSV formula and relative stable maps</td>
         <td></td>
       </tr>
       <tr>
         <td>9</td>
         <td>19.11.</td>
-        <td>Hurwitz numbers and Fock space</td>
+        <td>Hurwitz numbers, Hodge integrals and Fock space</td>
         <td></td>
       </tr>
       <tr>
