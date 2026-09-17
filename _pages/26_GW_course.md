@@ -149,13 +149,13 @@ You can find more detailed information and references for each talk in this <a h
 
 <h2 id="guideline">Giving a seminar talk</h2>
 <p>
-A good seminar talk is structured, engaging, and clear. When preparing your presentation, start by identifying the key ideas: What are the main concepts? Why are they important? How do they fit into the broader context of quiver representations? Before diving into technical proofs, take some time to provide intuition and motivation. Here are a few practical tips:
+A good seminar talk is structured, engaging, and clear. When preparing your presentation, start by identifying the key ideas: What are the main concepts? Why are they important? How do they fit into the broader context our seminar? Before diving into technical proofs, take some time to provide intuition and motivation. Here are a few practical tips:
 </p>
 <ul>
   <li><b>Organisation:</b> Plan your talk with a clear structure — begin with an overview, introduce necessary definitions, state the main results, and then explain proofs or computations step by step.</li>
-  <li><b>Examples:</b> Illustrate abstract ideas with concrete examples. Quiver representations generalise concepts you have already encountered in linear algebra, so well-chosen examples can greatly aid understanding.</li>
-  <li><b>Notation and clarity:</b> Be mindful of notation and avoid overwhelming the audience with too many symbols at once. Whenever possible, explain formulas in words.</li>
-  <li><b>Time management:</b> Practice beforehand to ensure your talk fits within the allotted time. If a proof is too long, highlight only the key steps and refer to the book for details.</li>
+  <li><b>Examples:</b> Illustrate abstract ideas with concrete examples. Sometimes pictures can convey more information than abstract formulas.</li>
+  <li><b>Notation and clarity:</b> Be mindful of notation. In particular, use notation that is consistent with earlier talks.</li>
+  <li><b>Time management:</b> Practice beforehand to ensure your talk fits within the allotted time. If a proof is too long, highlight only the key steps and refer to the literature for details.</li>
   <li><b>Engagement:</b> Encourage questions and interaction. If a concept is tricky, take a moment to check if everyone is following before moving on.</li>
 </ul>
 <p>
@@ -167,6 +167,6 @@ For additional tips on giving a seminar talk, see <a href="https://johannesschmi
 In order to pass the seminar, you have to:
 </p>
 <ul>
-  <li><b>give a talk</b> from the above list to the other participants
-  <li><b>attend</b> (most of) the talks of the other participants
+  <li><b>give a talk</b> from the above list to the other participants</li>
+  <li><b>attend</b> (most of) the talks of the other participants</li>
 </ul>
