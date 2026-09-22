@@ -79,25 +79,25 @@ You can find more detailed information and references for each talk in this <a h
         <td>3</td>
         <td>08.10.</td>
         <td>Intersection theory on the moduli space of curves</td>
-        <td></td>
+        <td>Roland Hafner</td>
       </tr>
       <tr>
         <td>4</td>
         <td>15.10.</td>
         <td>Moduli space of genus zero stable maps</td>
-        <td></td>
+        <td>Diego Torres Tejeda</td>
       </tr>
       <tr>
         <td>5</td>
         <td>22.10.</td>
         <td>Moduli space of higher genus stable maps</td>
-        <td></td>
+        <td>Mateo Fontana</td>
       </tr>
       <tr>
         <td>6</td>
         <td>29.10.</td>
         <td>Equivariant intersection theory and localisation</td>
-        <td></td>
+        <td>Yuan Lu</td>
       </tr>
       <tr>
         <td>7</td>
@@ -109,25 +109,25 @@ You can find more detailed information and references for each talk in this <a h
         <td>8</td>
         <td>12.11.</td>
         <td>The ELSV formula and relative stable maps</td>
-        <td></td>
+        <td>Alec Kalman</td>
       </tr>
       <tr>
         <td>9</td>
         <td>19.11.</td>
         <td>Hurwitz numbers, Hodge integrals and Fock space</td>
-        <td></td>
+        <td>Riccardo Celori</td>
       </tr>
       <tr>
         <td>10</td>
         <td>26.11.</td>
         <td>The stationary Gromov-Witten theory of \( \mathbb{P}^1 \)</td>
-        <td></td>
+        <td>Mateo Fontana</td>
       </tr>
       <tr>
         <td>11</td>
         <td>03.12.</td>
         <td>The Gromov-Witten/Hurwitz correspondence</td>
-        <td></td>
+        <td>Alec Kalman</td>
       </tr>
       <tr>
         <td>12</td>
