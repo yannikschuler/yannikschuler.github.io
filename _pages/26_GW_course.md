@@ -103,7 +103,7 @@ You can find more detailed information and references for each talk in this <a h
         <td>7</td>
         <td>05.11.</td>
         <td>Localisation for stable maps to projective space</td>
-        <td></td>
+        <td>Diego Torres Tejeda</td>
       </tr>
       <tr>
         <td>8</td>
@@ -132,8 +132,8 @@ You can find more detailed information and references for each talk in this <a h
       <tr>
         <td>12</td>
         <td>10.12.</td>
-        <td></td>
-        <td></td>
+        <td>Recap of main results</td>
+        <td>Rivaldo Cifuentes Monroy</td>
       </tr>
       <tr>
         <td>13</td>
