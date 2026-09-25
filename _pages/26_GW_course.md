@@ -71,7 +71,7 @@ You can find more detailed information and references for each talk in this <a h
       </tr>
       <tr>
         <td>2</td>
-        <td>01.10.</td>
+        <td><b>01.10.*</b></td>
         <td>Intersection theory</td>
         <td>Rivaldo Cifuentes Monroy</td>
       </tr>
@@ -145,7 +145,7 @@ You can find more detailed information and references for each talk in this <a h
   </table>
 
 </div>
-<p> </p>
+<p><b>*</b> Talk 2 takes place <b>16:45-18:30</b> in the usual room.</p>
 
 <h2 id="guideline">Giving a seminar talk</h2>
 <p>
