@@ -10,6 +10,7 @@ nav_order: 4
 <h3>upcoming:</h3>
 <!-- <p>/</p> -->
 <ul>
+   <li><b>TBA</b>, Mathematical Physics seminar, University of Dijon, 02 February 2027</li>
    <li><b>TBA</b>, Enumerative Geometry in Scattering diagrams, Les Diablerets, 09–14 May 2027</li>
 </ul>
 
