@@ -23,7 +23,7 @@ nav_order: 7
 
 <b>master students</b>
 <ul>
-  <li>A. Dänzer, 2025, <i>Gromov-Witten theory of a higher-dimensional generalization of the resolved conifold</i>, [arXiv:2611.01260](https://arxiv.org/abs/2611.01260)</li>
+  <li>A. Dänzer, 2025, <i>Gromov-Witten theory of a higher-dimensional generalization of the resolved conifold</i>, <a href='https://arxiv.org/abs/2611.01260'>arXiv:2611.01260</a></li>
 </ul>
 
 <h3>head tutor</h3>
