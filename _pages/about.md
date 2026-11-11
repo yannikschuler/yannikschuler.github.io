@@ -19,7 +19,7 @@ Hi! I am a [Walter Benjamin fellow](https://www.dfg.de/en/research-funding/fundi
 
 My research focuses on enumerative invariants and their moduli spaces, particularly Gromov–Witten and Donaldson–Thomas theory. This research is often inspired by topological string and M-theory. Currently I am studying enumerative invariants of Calabi–Yau fivefolds and their subvarieties, with a focus on correspondences between Gromov–Witten invariants, sheaf counts, and a generalisation of Gopakumar–Vafa invariants predicted to arise from M2-branes.
 
-I did my undergraduate studies in Bonn and wrote my Master thesis in Physics under the supervision of [Albrecht Klemm](https://www.hcm.uni-bonn.de/people/faculty/profile/albrecht-klemm/) and [Gaëtan Borot](https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/mathematische-physik/borot-mp-homepage).
+<!--I did my undergraduate studies in Bonn and wrote my Master thesis in Physics under the supervision of [Albrecht Klemm](https://www.hcm.uni-bonn.de/people/faculty/profile/albrecht-klemm/) and [Gaëtan Borot](https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/mathematische-physik/borot-mp-homepage).-->
 
 My name is pronounced \[[ˈjanɪk](https://upload.wikimedia.org/wikipedia/commons/6/6c/De-Yannick.ogg) [ˈʃyːlɐ](https://upload.wikimedia.org/wikipedia/commons/8/8c/De-Sch%C3%BCler.ogg)\].
 
